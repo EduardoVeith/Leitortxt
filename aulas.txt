@@ -1,0 +1,103 @@
+Matemática - Prof. Silva 50
+Física - Prof. Lima 45
+História - Prof. Almeida 60
+Biologia - Prof. Almeida 40
+Química - Prof. Andrade 55
+Geografia - Prof. Martins 35
+Português - Prof. Vieira 50
+Literatura - Prof. Vieira 40
+Filosofia - Prof. Cunha 30
+Sociologia - Prof. Cunha 45
+Inglês - Prof. Johnson 40
+Espanhol - Prof. Torres 35
+Educação Física - Prof. Carvalho 60
+Artes - Prof. Monteiro 30
+Informática - Prof. Teixeira 50
+Programação - Prof. Santos 60
+Banco de Dados - Prof. Santos 45
+Redes de Computadores - Prof. Dias 50
+Sistemas Operacionais - Prof. Nogueira 55
+Algoritmos - Prof. Cardoso 40
+Estrutura de Dados - Prof. Cardoso 50
+Engenharia de Software - Prof. Costa 60
+Desenvolvimento Web - Prof. Costa 45
+Inteligência Artificial - Prof. Lima 50
+Machine Learning - Prof. Lima 60
+Segurança da Informação - Prof. Barbosa 50
+Arquitetura de Computadores - Prof. Lacerda 55
+Compiladores - Prof. Nóbrega 40
+Lógica - Prof. Freitas 35
+Matemática Discreta - Prof. Freitas 50
+Cálculo I - Prof. Assis 60
+Cálculo II - Prof. Assis 60
+Probabilidade - Prof. Maciel 40
+Estatística - Prof. Maciel 45
+Empreendedorismo - Prof. Miranda 30
+Gestão de Projetos - Prof. Miranda 50
+Administração - Prof. Rangel 40
+Contabilidade - Prof. Bastos 35
+Finanças - Prof. Bastos 45
+Direito - Prof. Castro 50
+Ética - Prof. Meireles 30
+Comunicação - Prof. Barros 40
+Psicologia - Prof. Diniz 50
+Pedagogia - Prof. Braga 45
+Geometria - Prof. Cardoso 30
+Trigonometria - Prof. Cardoso 40
+Física Moderna - Prof. Silva 50
+Química Orgânica - Prof. Andrade 60
+Genética - Prof. Moura 50
+História da Arte - Prof. Monteiro 40
+Cinema - Prof. Andrade 30
+Teatro - Prof. Nóbrega 35
+Música - Prof. Araújo 45
+Robótica - Prof. Lima 60
+Cloud Computing - Prof. Nogueira 45
+Big Data - Prof. Nogueira 50
+DevOps - Prof. Lacerda 40
+UX Design - Prof. Barros 50
+Design Thinking - Prof. Barros 45
+Bioinformática - Prof. Moura 50
+Física Quântica - Prof. Silva 60
+Neurociência - Prof. Diniz 40
+Psicologia Cognitiva - Prof. Diniz 30
+Física Experimental - Prof. Silva 45
+Análise de Circuitos - Prof. Costa 50
+Eletrônica Digital - Prof. Costa 40
+Microcontroladores - Prof. Costa 50
+Matemática Aplicada - Prof. Teixeira 45
+TI Verde - Prof. Barbosa 30
+Direito Digital - Prof. Castro 50
+Privacidade e Dados - Prof. Castro 60
+Governança de TI - Prof. Barbosa 50
+Simulação - Prof. Nogueira 40
+Comp. Paralela - Prof. Lacerda 60
+Sistemas Distribuídos - Prof. Lacerda 50
+Pesquisa Operacional - Prof. Lacerda 45
+TCC I - Prof. Santos 60
+TCC II - Prof. Santos 60
+Oficina de Projetos - Prof. Santos 50
+Estágio Supervisionado - Prof. Rangel 60
+Gestão do Conhecimento - Prof. Miranda 40
+Administração Financeira - Prof. Bastos 50
+Ciência dos Dados - Prof. Lima 60
+Visualização de Dados - Prof. Lima 50
+Mineração de Dados - Prof. Lima 45
+Ética Profissional - Prof. Meireles 40
+Liderança e Inovação - Prof. Rangel 35
+Gerência de Configuração - Prof. Costa 45
+Manutenção de Software - Prof. Costa 50
+Requisitos de Software - Prof. Costa 40
+Avaliação de Desempenho - Prof. Nóbrega 50
+Projetos de Redes - Prof. Dias 40
+Gestão de Serviços de TI - Prof. Barbosa 50
+Engenharia Econômica - Prof. Bastos 50
+Planejamento Estratégico - Prof. Rangel 60
+Seminários Avançados - Prof. Meireles 30
+Apresentação de Projetos - Prof. Santos 50
+
+Sem Professor - 50
+Aula com duração texto - Prof. Silva abc
+Matemática - Prof. Costa -20
+Outro erro
+Aula incompleta - Prof.
